@@ -16,6 +16,7 @@ android {
 }
 
 dependencies {
-    compile 'com.facebook.react:react-native:0.19.+'
-    compile "com.mixpanel.android:mixpanel-android:4.6.4"
+    compile 'com.facebook.react:react-native:+'
+    compile "com.mixpanel.android:mixpanel-android:5.+"
+    compile "com.google.android.gms:play-services:7.5.0+"
 }
